@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery List</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div id="grocery">
+        <h1>Grocery Shopping List</h1>
+        <button id="click" class="btn-lg  btn-block" onclick="shoppinglist();"> Grocery List </button>
+        <br><br>
+        <table style="text-align: center;">
+            <thead>
+                <tr>
+                    <th>Serialno</th>
+                    <th>Items</th>
+                    <th>Quantity</th>
+                    <th>Unit</th>
+                    <th>Department</th>
+                    <th>Notes</th>
+                </tr>
+            </thead>
+            <tbody id="items"></tbody>
+        </table>
+    </div>
+
+    <script src="grocery.js"></script>
+</body>
+
+</html>

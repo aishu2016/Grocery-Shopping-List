@@ -1,0 +1,83 @@
+{
+    "lists": [{
+            "Serialno": "1",
+            "Items": "Milk",
+            "Quantity": "2",
+            "Unit": "Litre",
+            "Department": "Grocery",
+            "Notes": "Make sure to note the expiry date"
+        },
+        {
+            "Serialno": "2",
+            "Items": "Tomato",
+            "Quantity": "2",
+            "Unit": "kilogram",
+            "Department": "Vegetable",
+            "Notes": "Get the fresh one"
+        },
+        {
+            "Serialno": "3",
+            "Items": "Talc Powder",
+            "Quantity": "300",
+            "Unit": "Gram",
+            "Department": "Beauty Purpose",
+            "Notes": "Johnson's talc powder is preffered"
+        },
+        {
+            "Serialno": "4",
+            "Items": "Rice",
+            "Quantity": "15",
+            "Unit": "Kilogram",
+            "Department": "Grocery",
+            "Notes": "DoubleHorse is preffered"
+        },
+        {
+            "Serialno": "5",
+            "Items": "Sugar",
+            "Quantity": "6",
+            "Unit": "Kilogram",
+            "Department": "Grocery",
+            "Notes": "Make sure not to buy Brown Sugar"
+        },
+        {
+            "Serialno": "6",
+            "Items": "Turmeric Powder",
+            "Quantity": "600",
+            "Unit": "Gram",
+            "Department": "Grocery",
+            "Notes": "Buy good quality one"
+        },
+        {
+            "Serialno": "7",
+            "Items": "Food Oil ",
+            "Quantity": "5",
+            "Unit": "Litre",
+            "Department": "Grocery",
+            "Notes": "Get sunflower oil"
+        },
+        {
+            "Serialno": "8",
+            "Items": "Potato ",
+            "Quantity": "1.5",
+            "Unit": "Kilogram",
+            "Department": "Vegetable",
+            "Notes": "Buy the Fresh one"
+        },
+        {
+            "Serialno": "9",
+            "Items": "Tea Powder ",
+            "Quantity": "500",
+            "Unit": "Gram",
+            "Department": "Grocery",
+            "Notes": "Kannan Devan tea powder will be good"
+        },
+        {
+            "Serialno": "10",
+            "Items": "Washing Soap  ",
+            "Quantity": "4",
+            "Unit": "Number",
+            "Department": "Beauty & Hygeine",
+            "Notes": "Buy most usefull one"
+        }
+    ]
+}
